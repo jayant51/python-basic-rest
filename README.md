@@ -1,1 +1,1 @@
-# devfile-sample-python-basic
+# python-basic-rest
